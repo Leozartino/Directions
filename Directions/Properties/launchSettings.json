@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Search": {
+      "commandName": "Project",
+      "commandLineArgs": "oslo lysaker"
+    }
+  }
+}
